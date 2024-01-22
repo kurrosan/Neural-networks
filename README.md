@@ -264,7 +264,8 @@ cap.release()
 1. Итоговый результат:
    ![image](https://github.com/kurrosan/Neural-networks/assets/120035199/905149a8-762d-44b9-bdf1-0bf8cfa68de6)
 2. Итоговый результат:
-   
+   ![image](https://github.com/kurrosan/Neural-networks/assets/120035199/bf0f23fa-2a30-4738-a014-786639337ce7)
+
 
 
 
